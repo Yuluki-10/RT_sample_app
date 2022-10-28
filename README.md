@@ -5,6 +5,10 @@
 （第6版）
 [Michael Hartl](https://www.michaelhartl.com/) 著
 
+## 対象のチャプター
+- 第3章
+- 第4章
+
 ## ライセンス
 
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
