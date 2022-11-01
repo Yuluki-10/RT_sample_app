@@ -1,5 +1,7 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
+**※example_user.rbは、学習用のファイル**
+
 これは、次の教材で作られたサンプルアプリケーションです。
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 （第6版）
