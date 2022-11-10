@@ -21,3 +21,6 @@ user[:name] = "hogeo"
 user[:email] = "example@mail"
 user[:password_digest] = ('a'..'z').to_a.shuffle[0..15].join
 p user
+puts "④ ================================"
+merge_hash = { "a" => 100, "b" => 200 }.merge({ "b" => 300 })
+p merge_hash
